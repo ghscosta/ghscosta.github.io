@@ -1,1 +1,0 @@
-# ghscosta.github.io
