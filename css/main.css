@@ -60,7 +60,7 @@
 .heading-text {
     
     border: 5px solid #000;
-    height: 190px;
+    height: 170px;
     width: 600px;
     display: flex;
     justify-content: center;
@@ -125,7 +125,7 @@ li{
 }
 
 h2{
-  
+  font-weight: normal;
 }
 .footer{
     background-color: #75103f;
@@ -142,6 +142,6 @@ h2{
     
 }
 
-
+a { color: inherit; } 
 
 
