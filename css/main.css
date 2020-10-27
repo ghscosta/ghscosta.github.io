@@ -82,7 +82,7 @@
 .present{
     
     background-color: #ebebeb;
-    height: 550px;
+    height: 650px;
     width: 100%;
     display: flex;
     justify-content: center;
@@ -113,7 +113,7 @@
 }
 
 .medias{
-  height: 250px;
+  height: 200px;
   width: 200px;
   margin:50px;      
     
@@ -128,7 +128,6 @@ h2{
   font-weight: normal;
 }
 .footer{
-    background-color: #75103f;
     width:100%;
     height:70px;
     display: flex;
@@ -139,6 +138,20 @@ h2{
     background-color:#0a2754;
     background-image: linear-gradient(to bottom, rgba(255,255,255,0.9), rgba(255,255,255,0));
     
+    
+}
+
+
+.footoor{
+    color:#edeef0;
+    background-color: #0a2754;
+    width:100%;
+    height:70px;
+    display: flex;
+    align-content: center;
+    text-align: center;
+    justify-content: center;
+    padding:30px;
     
 }
 
