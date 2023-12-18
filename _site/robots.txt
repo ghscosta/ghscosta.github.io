@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://ghscosta.github.io/sitemap.xml
