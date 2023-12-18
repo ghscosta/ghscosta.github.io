@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://ghscosta.github.io/al-folio/sitemap.xml
+Sitemap: https://ghscosta.github.io/sitemap.xml
