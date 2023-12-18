@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: FAPESP Postdoctoral Fellow at ICTP-SAIFR/IFT-UNESp on Complex Systems applied to Biology.
 
 profile:
   align: right
